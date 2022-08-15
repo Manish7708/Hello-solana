@@ -9,6 +9,7 @@ use solana_program::{
 
 entrypoint!(process_instruction);
 
+new entery ponit
 
 fn process_instruction(
     program_id: &Pubkey,
